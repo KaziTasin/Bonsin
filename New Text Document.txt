@@ -1,0 +1,30 @@
+<i class="fas fa-brain"></i>
+
+<i class="fas fa-phone-alt"></i>
+
+<i class="far fa-map"></i>
+
+<i class="far fa-clock"></i>
+
+<i class="far fa-hand-paper"></i>
+
+<i class="fas fa-chart-line"></i>
+<i class="far fa-comments"></i>
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-vimeo-v"></i>
+
+<i class="far fa-chart-bar"></i>
+
+<i class="fas fa-search"></i>
+
+<i class="fas fa-notes-medical"></i>
+<i class="far fa-thumbs-up"></i>
+<i class="fas fa-handshake"></i>
+<i class="fas fa-rocket"></i>
+<i class="fas fa-quote-right"></i>
+<i class="fas fa-times"></i>
+<i class="fas fa-check"></i>
+<i class="fas fa-play"></i>

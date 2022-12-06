@@ -1,0 +1,1726 @@
+@media (min-width:320px) and (max-width:575px){
+    header {
+        height: auto;
+    }
+    header .header-item {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 30px;
+        border-right: 0;
+    }
+    header .header-icon {
+        text-align: left;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+    }
+nav img{
+    width: 50%;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h4 {
+	font-size: 27px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 0;
+}
+#banner .banner-text a {
+	margin-right: 10px;
+    padding: 15px 15px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 7px 0;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 55px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 17px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 27px;
+}
+#business .bus-right p {
+	font-size: 15px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 27px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 15px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	top: 20%;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 20px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 15px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 50px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 29px;
+	border-right: 0;
+	padding-right: 0px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 3px solid #ea3a60;
+}
+#offer p {
+	font-size: 16px;
+	margin-bottom: 50px;
+	margin-top: 13px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+#offer .offer-item i {
+	font-size: 40px;
+}
+#offer .offer-item h4 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 15px;
+	padding: 0;
+}
+#counter {
+	padding: 20px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3 {
+	font-size: 50px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 27px;
+}
+#faq .faq-head p {
+	font-size: 15px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 15px;
+}
+.accordion-item .accordion-button {
+	font-size: 18px;
+}.accordion-item .collapsed {
+	font-size: 18px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 27px;
+}
+#register .reg-title {
+	text-align: left;
+}
+#register .reg-title p {
+	font-size: 15px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 40px;
+}
+#register .reg-head p {
+	font-size: 20px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 17px;
+}
+#register .reg-item {
+	margin-bottom: 15px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: left;
+}
+#plan .plan-head h3 {
+	font-size: 27px;
+}
+#plan .plan-head p {
+	font-size: 15px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 27px;
+	margin-top: 10px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 108%;
+}
+#news .news-head {
+	text-align: left;
+}
+#news .news-head h3 {
+	font-size: 27px;
+}
+#news .news-head p {
+	font-size: 15px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part h4 {
+	font-size: 25px;
+}
+#footer .left-part h6 {
+	font-size: 20px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ================================= */
+}
+
+/* ======================================================= */
+@media (min-width:576px) and (max-width:767px){
+    header {
+        height: auto;
+    }
+    header .header-item {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 30px;
+        border-right: 0;
+    }
+    header .header-icon {
+        text-align: left;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+		margin-top: 10px;
+    }
+nav img{
+    width: 40%;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+	font-size: 27px;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h4 {
+	font-size: 30px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 0;
+}
+#banner .banner-text a {
+	margin-right: 40px;
+	padding: 17px 25px;
+	font-size: 20px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 15px 0;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 70px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 25px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 35px;
+}
+#business .bus-right p {
+	font-size: 17px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 35px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 17px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    font-size: 25px;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 24px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 17px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 50px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 35px;
+	border-right: 0;
+	padding-right: 0px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 3px solid #ea3a60;
+}
+#offer p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: 13px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+#offer .offer-item i {
+	font-size: 45px;
+	padding-top: 12px;
+}
+#offer .offer-item h4 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 17px;
+	padding: 0;
+}
+#team .team-text {
+	padding: 20px 0;
+}
+#team .team-text h3 {
+	font-size: 40px;
+}
+#team .team-text h5 {
+	font-size: 30px;
+}
+#team .team-img .overlay a i {
+	font-size: 40px;
+}
+#counter {
+	padding: 20px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3 {
+	font-size: 55px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 35px;
+}
+#faq .faq-head p {
+	font-size: 17px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 17px;
+}
+.accordion-item .accordion-button {
+	font-size: 20px;
+}.accordion-item .collapsed {
+	font-size: 20px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 35px;
+}
+#register .reg-title {
+	text-align: left;
+}
+#register .reg-title p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 50px;
+}
+#register .reg-head p {
+	font-size: 25px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 20px;
+}
+#register .reg-item {
+	margin-bottom: 15px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: left;
+}
+#plan .plan-head h3 {
+	font-size: 35px;
+}
+#plan .plan-head p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 35px;
+	margin-top: 10px;
+}
+#vision .vision-text p {
+	font-size: 16px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 104%;
+	bottom: -105px
+}
+#news .news-head {
+	text-align: left;
+}
+#news .news-head h3 {
+	font-size: 35px;
+}
+#news .news-head p {
+	font-size: 17px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part p {
+	font-size: 17px;
+}
+#footer .left-part h4 {
+	font-size: 30px;
+}
+#footer .left-part h6 {
+	font-size: 22px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 30px;
+}
+    /* ================================= */
+}
+/* ========================================================== */
+
+@media (min-width:768px) and (max-width:991px){
+    header {
+        height: auto;
+    }
+    header .header-item {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 30px;
+        border-right: 0;
+    }
+    header .header-icon {
+        text-align: left;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+		margin-top: 10px;
+    }
+nav img{
+    width: 30%;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+	font-size: 27px;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h4 {
+	font-size: 30px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 0;
+}
+#banner .banner-text a {
+	margin-right: 40px;
+	padding: 17px 25px;
+	font-size: 20px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 15px 0;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 70px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 25px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 35px;
+}
+#business .bus-right p {
+	font-size: 17px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 35px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 17px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    font-size: 25px;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 24px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 17px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 50px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 35px;
+	border-right: 0;
+	padding-right: 0px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 3px solid #ea3a60;
+}
+#offer p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: 13px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+#offer .offer-item i {
+	font-size: 45px;
+	padding-top: 12px;
+}
+#offer .offer-item h4 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 17px;
+	padding: 0;
+}
+#team .team-text {
+	padding: 20px 0;
+}
+#team .team-text h3 {
+	font-size: 40px;
+}
+#team .team-text h5 {
+	font-size: 30px;
+}
+#team .team-img .overlay a i {
+	font-size: 40px;
+}
+#counter {
+	padding: 20px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3 {
+	font-size: 55px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 35px;
+}
+#faq .faq-head p {
+	font-size: 17px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 17px;
+}
+.accordion-item .accordion-button {
+	font-size: 20px;
+}.accordion-item .collapsed {
+	font-size: 20px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 35px;
+}
+#register .reg-title {
+	text-align: left;
+}
+#register .reg-title p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 50px;
+}
+#register .reg-head p {
+	font-size: 25px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 20px;
+}
+#register .reg-item {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: left;
+}
+#plan .plan-head h3 {
+	font-size: 35px;
+}
+#plan .plan-head p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 35px;
+	margin-top: 10px;
+}
+#vision .vision-text p {
+	font-size: 16px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 103%;
+	bottom: -105px
+}
+#news .news-head {
+	text-align: left;
+}
+#news .news-head h3 {
+	font-size: 35px;
+}
+#news .news-head p {
+	font-size: 17px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part p {
+	font-size: 17px;
+}
+#footer .left-part h4 {
+	font-size: 30px;
+}
+#footer .left-part h6 {
+	font-size: 22px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 30px;
+}
+    /* ================================= */
+}
+
+/* ============================================================= */
+@media (min-width:992px) and (max-width:1199px){
+    header {
+        height: auto;
+    }
+	header .header-item {
+		padding-right: 0;
+		padding-left: 10px;
+		border-right: 0;
+	}
+	header .header-item i {
+		left: -5px;
+	}	header .header-item .hour{
+		left: -18px;
+	}
+	header .header-item h5 {
+		font-size: 15px;
+	}
+	header .header-item h4 {
+		font-size: 15px;
+		padding-right: 15px;
+	}
+    header .header-icon {
+        text-align: right;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+		margin-top: 10px;
+    }
+nav img{
+    width: 20%;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+	font-size: 27px;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h6 {
+	font-size: 20px;
+}
+#banner .banner-text h4 {
+	font-size: 35px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 200px;
+	font-size: 20px;
+}
+#banner .banner-text a {
+	margin-right: 40px;
+	padding: 17px 25px;
+	font-size: 22px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 30px 0;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 70px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 25px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 35px;
+}
+#business .bus-right p {
+	font-size: 17px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 35px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 17px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    font-size: 25px;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 24px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 17px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 40px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 35px;
+	border-right: 3px solid #ea3a60;
+	padding-right: 0px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 0;
+}
+#offer p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: -7px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+#offer .offer-item i {
+	font-size: 45px;
+	padding-top: 12px;
+}
+#offer .offer-item h4 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 17px;
+	padding: 0;
+}
+#team .team-text {
+	padding: 20px 0;
+}
+#team .team-text h3 {
+	font-size: 40px;
+}
+#team .team-text h5 {
+	font-size: 30px;
+}
+#team .team-img .overlay a i {
+	font-size: 40px;
+}
+#counter {
+	padding: 40px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3 {
+	font-size: 55px;
+}
+#counter .counter-item h5 {
+	font-size: 18px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 35px;
+}
+#faq .faq-head p {
+	font-size: 17px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 17px;
+}
+.accordion-item .accordion-button {
+	font-size: 20px;
+}.accordion-item .collapsed {
+	font-size: 20px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 35px;
+}
+#register .reg-title {
+	text-align: center;
+}
+#register .reg-title p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 50px;
+}
+#register .reg-head p {
+	font-size: 25px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 20px;
+}
+#register .reg-item {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: center;
+}
+#plan .plan-head h3 {
+	font-size: 35px;
+}
+#plan .plan-head p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 35px;
+	margin-top: 10px;
+}
+#vision .vision-text p {
+	font-size: 16px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 108%;
+	bottom: -129px;
+}
+#news .news-head {
+	text-align: center;
+}
+#news .news-head h3 {
+	font-size: 35px;
+}
+#news .news-head p {
+	font-size: 17px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part p {
+	font-size: 17px;
+}
+#footer .left-part h4 {
+	font-size: 30px;
+}
+#footer .left-part h6 {
+	font-size: 22px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 30px;
+}
+    /* ================================= */
+}
+
+/* ======================================= */
+@media (min-width:1200px) and (max-width:1399px){
+    header {
+        height: auto;
+    }
+	header .header-item {
+		padding-right: 0;
+		padding-left: 10px;
+		border-right: 0;
+	}
+	header .header-item i {
+		left: 17px;
+	}	header .header-item .hour{
+		left: -12px;
+	}
+	header .header-item h5 {
+		font-size: 20px;
+	}
+	header .header-item h4 {
+		font-size: 18px;
+	}
+    header .header-icon {
+        text-align: right;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+		margin-top: 10px;
+    }
+nav img{
+    width: 19%;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+	font-size: 27px;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h6 {
+	font-size: 20px;
+}
+#banner .banner-text h4 {
+	font-size: 35px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 380px;
+	font-size: 20px;
+}
+#banner .banner-text a {
+	margin-right: 40px;
+	padding: 17px 25px;
+	font-size: 22px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 20px 0;
+}
+#business .bus-right a {
+	margin-top: 40px;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 70px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 25px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 35px;
+}
+#business .bus-right p {
+	font-size: 17px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 35px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 17px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    font-size: 25px;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 24px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 17px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 40px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 35px;
+	border-right: 3px solid #ea3a60;
+	padding-right: 70px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 0;
+}
+#offer p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: -7px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#offer .offer-item i {
+	font-size: 50px;
+	padding-top: 12px;
+}
+#offer .offer-item h4 {
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 17px;
+	padding: 0;
+}
+#team .team-text {
+	padding: 20px 0;
+}
+#team .team-text h3 {
+	font-size: 40px;
+}
+#team .team-text h5 {
+	font-size: 30px;
+}
+#team .team-img .overlay a i {
+	font-size: 40px;
+}
+#counter {
+	padding: 40px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3{
+	font-size: 60px;
+}#counter .counter-item h5{
+	font-size: 22px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 35px;
+	padding-right: 100px;
+}
+#faq .faq-head p {
+	font-size: 17px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 17px;
+}
+.accordion-item .accordion-button {
+	font-size: 20px;
+}.accordion-item .collapsed {
+	font-size: 20px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 35px;
+}
+#register .reg-title {
+	text-align: center;
+}
+#register .reg-title p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 50px;
+}
+#register .reg-head p {
+	font-size: 25px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 20px;
+}
+#register .reg-item {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: center;
+}
+#plan .plan-head h3 {
+	font-size: 35px;
+}
+#plan .plan-head p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 35px;
+	margin-top: 10px;
+}
+#vision .vision-text p {
+	font-size: 16px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 106%;
+	bottom: -129px;
+}
+#news .news-head {
+	text-align: center;
+}
+#news .news-head h3 {
+	font-size: 35px;
+}
+#news .news-head p {
+	font-size: 17px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part p {
+	font-size: 17px;
+}
+#footer .left-part h4 {
+	font-size: 30px;
+}
+#footer .left-part h6 {
+	font-size: 22px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 30px;
+}
+   /* ================================= */
+}
+/* ================================================== */
+@media (min-width:1400px) {
+    header {
+        height: auto;
+    }
+	header .header-item {
+		padding-right: 0;
+		padding-left: 10px;
+		border-right: 0;
+	}
+	header .header-item i {
+		left: 40px;
+	}	header .header-item .hour{
+		left: 10px;
+	}
+	header .header-item h5 {
+		font-size: 20px;
+	}
+	header .header-item h4 {
+		font-size: 18px;
+	}
+    header .header-icon {
+        text-align: right;
+    }
+    header .header-icon i {
+        padding-left: 0;
+        padding-right: 20px;
+		margin-top: 10px;
+    }
+nav img{
+    width: 19%;
+}
+nav ul li a {
+	font-size: 22px;
+}
+.navbar-toggler:focus {
+	box-shadow: 0 0 0 .0;
+}
+nav button i{
+    color: #ffffff;
+	font-size: 27px;
+}
+#banner {
+	padding: 0;
+	margin-bottom: 40px;
+}
+#banner .banner-text {
+background: transparent;
+}
+#banner .banner-text {
+	width: auto;
+	padding: 50px 8px;
+}
+#banner .banner-text h6 {
+	font-size: 25px;
+}
+#banner .banner-text h4 {
+	font-size: 45px;
+	padding-top: 25px;
+}
+#banner .banner-text p {
+	padding-top: 25px;
+	padding-right: 400px;
+	font-size: 22px;
+}
+#banner .banner-text a {
+	margin-right: 40px;
+	padding: 17px 25px;
+	font-size: 22px;
+}
+#business {
+	margin-bottom: 35px;
+}
+#business .bus-left .bus-left-text {
+	padding: 20px 0;
+}
+#business .bus-right a {
+	margin-top: 40px;
+}
+#business .bus-left .bus-left-text h2 {
+	font-size: 90px;
+}
+#business .bus-left .bus-left-text h4 {
+	font-size: 25px;;
+}
+#business .bus-right {
+	margin-left: 0;
+}
+#business .bus-right h3 {
+    padding-top: 20px;
+    padding-bottom: 0;
+	font-size: 40px;
+}
+#business .bus-right p {
+	font-size: 19px;
+	padding: 0;
+}
+#choose .choose-main h3 {
+	font-size: 45px;
+	padding-right: 0;
+}
+#choose .choose-main p {
+	font-size: 17px;
+	margin-bottom: 40px;
+}
+#choose .choose-main .choose-item {
+	padding-left: 60px;
+}
+#choose .choose-main .choose-item i {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    font-size: 25px;
+}
+#choose .choose-main .choose-item h4 {
+	font-size: 24px;
+}
+#choose .choose-main .choose-item p {
+    	font-size: 17px;
+}
+#choose .choose-img {
+	position: static;
+	right: 0;
+}
+#offer {
+	padding: 40px 0;
+	margin-bottom: 50px;
+    margin-top: 20px;
+}
+#offer .offer-head h3 {
+	font-size: 35px;
+	border-right: 3px solid #ea3a60;
+	padding-right: 70px;
+}
+#offer .offer-head h3 span{
+    border-bottom: 0;
+}
+#offer p {
+	font-size: 17px;
+	margin-bottom: 50px;
+	margin-top: -7px;
+}
+#offer .offer-item {
+	padding-top: 10px;
+	padding-bottom: 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#offer .offer-item i {
+	font-size: 50px;
+	padding-top: 12px;
+}
+#offer .offer-item h4 {
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+#offer .offer-item p {
+	font-size: 17px;
+	padding: 0;
+}
+#team .team-text {
+	padding: 20px 0;
+}
+#team .team-text h3 {
+	font-size: 40px;
+}
+#team .team-text h5 {
+	font-size: 30px;
+}
+#team .team-img .overlay a i {
+	font-size: 40px;
+}
+#counter {
+	padding: 40px 0;
+    margin-bottom: 35px;
+}
+#counter .counter-item h3{
+	font-size: 60px;
+}#counter .counter-item h5{
+	font-size: 22px;
+}
+#faq {
+	margin-bottom: 50px;
+}
+#faq .faq-head h3 {
+	font-size: 35px;
+	padding-right: 100px;
+}
+#faq .faq-head p {
+	font-size: 17px;
+	padding: 20px 0;
+}
+.accordion-body {
+	font-size: 17px;
+}
+.accordion-item .accordion-button {
+	font-size: 20px;
+}.accordion-item .collapsed {
+	font-size: 20px;
+}
+#faq .faq-img {
+	position: static;
+}
+#faq .faq-img img{
+    width: 100%;
+}
+#register {
+margin-top: 0;
+}
+#register .reg-title {
+	padding: 0;
+}
+#register .reg-title h3 {
+	font-size: 35px;
+}
+#register .reg-title {
+	text-align: center;
+}
+#register .reg-title p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#register .reg-head {
+	padding: 10px 0;
+}
+#register .reg-head h3 {
+	font-size: 50px;
+}
+#register .reg-head p {
+	font-size: 25px;
+}
+#register .reg-item i {
+	font-size: 20px;
+}
+#register .reg-item span {;
+	font-size: 20px;
+}
+#register .reg-item {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#plan {
+	margin: 40px 0;
+}
+#plan .plan-head {
+	text-align: center;
+}
+#plan .plan-head h3 {
+	font-size: 35px;
+}
+#plan .plan-head p {
+	font-size: 17px;
+	padding: 10px 0;
+}
+#vision {
+	margin-bottom: 40px;
+	padding: 30px 0;
+}
+#vision .vision-text h3 {
+	font-size: 35px;
+	margin-top: 10px;
+}
+#vision .vision-text p {
+	font-size: 16px;
+}
+#news {
+	margin-bottom: 30px;
+}
+#news .news-item .news-chart::after {
+	width: 105%;
+	bottom: -105px;
+}
+#news .news-head {
+	text-align: center;
+}
+#news .news-head h3 {
+	font-size: 35px;
+}
+#news .news-head p {
+	font-size: 17px;
+	padding: 15px 0;
+}
+#news .news-item {
+	margin-bottom: 15px;
+}
+#footer .left-part p {
+	font-size: 17px;
+}
+#footer .left-part h4 {
+	font-size: 30px;
+}
+#footer .left-part h6 {
+	font-size: 22px;
+}
+#footer .footer-item{
+    margin-top: 15px;
+}
+#footer .footer-item h4 {
+	font-size: 30px;
+}
+   /* ================================= */
+}

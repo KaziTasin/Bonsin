@@ -1,0 +1,848 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ol,
+ul {
+  list-style-type: none;
+}
+
+/* ===============================
+header part start
+=========================================*/
+header {
+  height: 80px;
+}
+header .header-item {
+  text-align: right;
+  position: relative;
+  padding-right: 30px;
+  border-right: 2px solid #ea3a60;
+}
+header .header-item i {
+  font-size: 25px;
+  color: #ea3a60;
+  position: absolute;
+  top: 5px;
+  left: -10px;
+}
+header .header-item h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #555555;
+  padding-right: 120px;
+}
+header .call h5 {
+  padding-right: 35px;
+}
+header .header-item h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+}
+header .header-icon {
+  text-align: right;
+}
+header .header-icon i {
+  font-size: 25px;
+  color: #ea3a60;
+  padding-left: 20px;
+}
+/* ===============================
+header part end
+=========================================*/
+
+/* ===============================
+nav part start
+=========================================*/
+nav {
+  background: #ea3a60;
+  padding: 35px 0 !important;
+}
+nav ul li a {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff !important;
+}
+.dropdown-menu {
+  background-color: #ea3a60;
+}
+
+/* ===============================
+nav part end
+=========================================*/
+
+/* ========================================
+    banner part start
+============================================*/
+#banner {
+  background: url(../images/bg2\ 1.png) no-repeat center;
+  background-size: cover;
+  padding: 200px 0;
+  margin-bottom: 100px;
+  position: relative;
+}
+#banner .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.651);
+}
+#banner .banner-text {
+  width: 660px;
+  padding: 0 50px;
+  padding-top: 75px;
+  padding-bottom: 100px;
+  background: #ea3a60;
+  position: relative;
+  z-index: 999;
+}
+#banner .banner-text h6 {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+#banner .banner-text h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  color: #ffffff;
+  padding-top: 30px;
+}
+#banner .banner-text p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #ffffff;
+  padding-top: 30px;
+  padding-right: 90px;
+}
+#banner .banner-text a {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 15px 20px;
+  background: #ea3a60;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  margin-top: 30px;
+  margin-right: 30px;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+#banner .banner-text a:hover {
+  color: #ea3a60;
+  background: #ffffff;
+}
+
+/* ========================================
+    banner part end
+============================================*/
+
+/* ========================================
+    business part start
+============================================*/
+#business {
+  margin-bottom: 70px;
+}
+#business .bus-left img {
+  width: 100%;
+}
+#business .bus-left .bus-left-text {
+  padding: 25px 0;
+  text-align: center;
+  background: #ea3a60;
+}
+
+#business .bus-left .bus-left-text h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  color: #ffffff;
+}
+#business .bus-left .bus-left-text h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-weight: 500;
+  color: #ffffff;
+}
+#business .bus-right {
+  margin-left: 50px;
+}
+#business .bus-right h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+  margin-bottom: 35px;
+}
+#business .bus-right h3 span {
+  border-bottom: 3px solid #ea3a60;
+}
+#business .bus-right p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 15px 0;
+}
+#business .bus-right a {
+  margin-top: 10px;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #ea3a60;
+  padding: 10px 15px;
+  border: 1px solid #ea3a60;
+  border-radius: 5px;
+}
+/* ========================================
+    business part end
+============================================*/
+
+/* =================================================
+choose part start
+======================================================== */
+#choose .choose-main h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+  padding-right: 90px;
+  margin-bottom: 20px;
+}
+#choose .choose-main h3 span {
+  border-bottom: 3px solid #ea3a60;
+}
+#choose .choose-main p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  margin-bottom: 70px;
+}
+#choose .choose-main .choose-item {
+  padding-left: 80px;
+  margin-bottom: -20px;
+  position: relative;
+}
+#choose .choose-main .choose-item i {
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  font-size: 20px;
+  color: #ffffff;
+  background: #ea3a60;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+}
+#choose .choose-main .choose-item h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: #232323;
+  margin-bottom: 10px;
+}
+#choose .choose-main .choose-item p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+}
+#choose .choose-img {
+  position: absolute;
+  right: 20px;
+}
+#choose .choose-img img {
+  width: 100%;
+}
+/* =================================================
+choose part end
+======================================================== */
+
+/* ==========================================================
+           offer part css start
+=========================================================*/
+#offer {
+  background: rgba(219, 215, 215, 0.726);
+  padding: 80px 0;
+  margin-bottom: 100px;
+}
+#offer .offer-head h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+  border-right: 3px solid #ea3a60;
+  padding-right: 100px;
+}
+#offer p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  margin-bottom: 60px;
+}
+
+#offer .offer-item {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  background: #ffffff;
+  margin-bottom: 30px;
+}
+#offer .offer-item i {
+  font-size: 50px;
+  color: #ea3a60;
+  padding-bottom: 20px;
+}
+#offer .offer-item h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: #232323;
+  padding-bottom: 20px;
+}
+#offer .offer-item p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 0 30px;
+}
+/* ==========================================================
+           offer part css end
+=========================================================*/
+
+/* =========================================================
+team part css start
+========================================================*/
+#team {
+  margin-bottom: 50px;
+}
+#team .team-img {
+  position: relative;
+  overflow: hidden;
+  height: 520px;
+}
+#team .team-img img {
+  width: 100%;
+  transition: 0.4s;
+}
+#team .team-text {
+  padding: 15px 0;
+  background: #ea3a60;
+  text-align: center;
+  position: relative;
+  top: -120px;
+  opacity: 1;
+  transition: 0.4s;
+}
+#team .team-img:hover .team-text {
+  opacity: 0;
+}
+#team .team-text h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  color: #ffffff;
+}
+#team .team-text h5 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #ffffff;
+}
+#team .team-img .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background: rgba(0, 0, 0, 0.651);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: 0.5s;
+}
+#team .team-img .overlay a i {
+  font-size: 30px;
+  color: #fff;
+}
+#team .team-img:hover img {
+  transform: scale(1.2) rotate(-6deg);
+  -webkit-transform: scale(1.2) rotate(-6deg);
+  -moz-transform: scale(1.2) rotate(-6deg);
+  -ms-transform: scale(1.2) rotate(-6deg);
+  -o-transform: scale(1.2) rotate(-6deg);
+}
+#team .team-img:hover .overlay{
+  height: 100%;
+  opacity: 1;
+}
+/* =========================================================
+team part css end
+========================================================*/
+
+/* ==========================================================
+counter part css start
+=============================================================*/
+#counter {
+  background: url(../images/counter.png) no-repeat center;
+  background-size: cover;
+  padding: 60px 0;
+  margin-bottom: 75px;
+  position: relative;
+}
+#counter .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(234, 58, 96, 0.678);
+}
+#counter .counter-item {
+  position: relative;
+  z-index: 9999;
+  text-align: center;
+}
+#counter .counter-item h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 74px;
+  font-weight: 700;
+  color: #ffffff;
+}
+#counter .counter-item h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+}
+/* ==========================================================
+counter part css end
+=============================================================*/
+
+/* ===============================================================
+faq part start
+====================================================================*/
+#faq {
+  margin-bottom: 70px;
+}
+#faq .faq-head h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+}
+#faq .faq-head h3 span {
+  border-bottom: 3px solid #ea3a60;
+}
+#faq .faq-head p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 30px 0;
+}
+
+.accordion-item .accordion-button {
+  background: #ea3a60;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.accordion-item .accordion-button i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) rotate(90deg);
+  right: 20px;
+}
+.accordion-button::after {
+  display: none;
+}
+.accordion-item .collapsed {
+  background: #b99d9d;
+  color: #000000;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.accordion-item .collapsed i {
+  transform: rotate(0deg);
+}
+.accordion-body {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+}
+
+#faq .faq-img {
+  position: absolute;
+  right: -20px;
+}
+/* ===============================================================
+faq part end
+====================================================================*/
+
+/* =====================================================
+register part start
+-==========================================================*/
+#register {
+  padding: 40px 0;
+  background: rgba(221, 221, 221, 0.671);
+  margin-top: 100px;
+}
+#register .reg-title {
+  padding: 10px 0;
+  text-align: center;
+}
+#register .reg-title h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+}
+#register .reg-title h3 span {
+  border-bottom: 3px solid #ea3a60;
+}
+#register .reg-title p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 0 160px;
+}
+#register .reg-head {
+  padding: 20px 0;
+  background: #ea3a60;
+  text-align: center;
+}
+#register .reg-head h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: #ffffff;
+  display: inline-block;
+}
+#register .reg-head p {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  color: #ffffff;
+  display: inline-block;
+}
+#register .reg-item {
+  background: #ffffff;
+  padding: 10px 0;
+  padding-left: 60px;
+}
+#register .reg-item span {
+  display: block;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #555555;
+}
+#register .reg-item i {
+  position: relative;
+  top: 27px;
+  left: -32px;
+  font-size: 25px;
+  color: #60be34;
+}
+#register .reg-item .cross {
+  color: #ea3a60;
+}
+#register .reg-item a {
+  display: inline-block;
+  color: #ea3a60;
+  padding: 10px;
+  border: 1px solid #ea3a60;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+/* =====================================================
+register part start
+-==========================================================*/
+
+/* ====================================================
+plan part start
+========================================================*/
+#plan {
+  margin: 100px 0;
+}
+#plan .plan-head {
+  padding: 10px 0;
+  text-align: center;
+}
+#plan .plan-head h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+}
+#plan .plan-head h3 span {
+  border-bottom: 3px solid #ea3a60;
+}
+#plan .plan-head p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 0 160px;
+}
+
+#plan .plan-item {
+  background: #ffffff;
+  margin: 20px 10px;
+  padding: 15px 20px;
+  box-shadow: 0px 10px 5px 3px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 10px 5px 3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 5px 3px rgba(0, 0, 0, 0.75);
+}
+#plan .plan-item p {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+}
+#plan .plan-item .plan-right {
+  text-align: right;
+}
+#plan .plan-item img {
+  margin-left: auto;
+}
+#plan .plan-item .plan-right i {
+  font-size: 18px;
+  color: #ea3a60;
+}
+#plan .plan-item .plan-right h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: #232323;
+  padding-top: 9px;
+}
+#plan .plan-item .plan-right p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #555555;
+}
+/* ====================================================
+plan part end
+========================================================*/
+
+
+/* ==================================================
+vision part start
+===============================================================*/
+#vision{
+  margin-bottom: 80px;
+  padding: 50px 0;
+  background: #ea3a60;
+}
+#vision img{
+  width: 100%;
+}
+#vision .vision-text h3{
+  font-family: "Poppins", sans-serif;
+  font-size: 45px;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+#vision .vision-text h3 span{
+  border-bottom: 3px solid #ffffff;
+}
+#vision .vision-text p{
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+#vision .vision-text i{
+  font-size: 15px;
+  width: 45px;
+  height: 45px;
+  line-height: 40px;
+  text-align: center;
+  background: #ffffff;
+  color: #ea3a60;
+  border: 3px solid #b43450b4;
+  border-radius: 50%;
+}
+#vision .vision-text .demo{
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+  padding-left: 15px;
+}
+/* ==================================================
+vision part end
+===============================================================*/
+
+/* ======================================================
+news part start
+==========================================================*/
+#news{
+  margin-bottom: 80px;
+}
+#news .news-head {
+  text-align: center;
+}
+#news .news-head h3{
+  font-family: "Poppins", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: #232323;
+}
+#news .news-head h3 span{
+  border-bottom: 3px solid #ea3a60;
+}
+#news .news-head p{
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: #555555;
+  padding: 20px 230px;
+}
+#news img{
+  width: 100%;
+}
+#news .news-item{
+  padding: 20px 10px;
+box-shadow: 0px 4px 4px 3px rgba(0,0,0,0.58) !important;
+}
+#news .news-item h4{
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #232323;
+  padding-right: 20px;
+}
+#news .news-item .news-chart{
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+
+}
+#news .news-item .news-chart::after {
+	position: absolute;
+	content: '';
+	bottom: -129px;
+	width: 106%;
+	height: 100%;
+	-webkit-box-shadow: 0px -19px 4px -6px rgba(170, 91, 108, 0.58) inset;
+	left: -10px;
+}
+#news .news-item .news-chart p{
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #555555;
+}
+#news .news-item .news-chart .sms{
+ position: absolute;
+ right: 0;
+ top: 3px;
+}
+#news .news-item .news-chart i{
+  font-size: 14;
+  color: #555555;
+  padding-right: 4px;
+}
+#news .news-item .news-chart .mess {
+	position: absolute;
+	right: 76px;
+	top: 5px;
+}
+#news .news-item .para{
+  padding: 10px 0;
+}
+/* ======================================================
+news part end
+==========================================================*/
+
+/* ==============================================
+footer part start
+================================================*/
+#footer{
+  padding: 40px 0;
+  background: #F5F9FF;
+}
+#footer .left-part p{
+  padding-top: 15px;
+  padding-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: #555555;
+}
+#footer .left-part h4{
+  font-family: "Roboto", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  color: #232323;
+}#footer .left-part h6{
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #555555;
+}
+
+#footer .footer-item h4{
+  font-family: "Roboto", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  color: #232323;
+}
+#footer .footer-item a{
+  display: block;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #555555;
+  padding: 7px 0;
+  transition: .4s;
+}
+#footer .footer-item a:hover{
+  margin-left: 30px;
+}
+#footer .copy{
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #555555;
+  text-align: center;
+  margin-top: 70px;
+}
+/* ==============================================
+footer part end
+================================================*/
